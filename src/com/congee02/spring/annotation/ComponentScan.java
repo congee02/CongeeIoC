@@ -5,7 +5,7 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-/**
+/** 确定需要组件扫描的包
  * @author congee(congee02 @ 163.com)
  * @date 1/24/2023 3:25 PM
  */

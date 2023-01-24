@@ -23,7 +23,7 @@ public class BeanDefinition {
         return type;
     }
 
-    public void setType(Class<?> type) {
+    public void setType(Class type) {
         this.type = type;
     }
 
